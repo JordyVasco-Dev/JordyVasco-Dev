@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hola, soy Jordy
 
-<!--
-**JordyVasco-Dev/JordyVasco-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador junior en formación. Actualmente construyendo proyectos con JavaScript, React y Node.js.
 
-Here are some ideas to get you started:
+**Ahora mismo estoy trabajando en:**
+- Portfolio personal
+- App de control de gastos
+- Mejorando lógica y buenas prácticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tecnologías:**
+`JavaScript` `React` `Node.js` `HTML` `CSS` `Git`
+
+Siempre abierto a oportunidades y a seguir aprendiendo.
